@@ -16,4 +16,4 @@ The "Hangman Game in Python" is a text-based implementation of the classic word 
 
 - Technologies Used:
 
-Python: The entire game is developed in Python, using basic programming concepts such as loops, conditionals, and string manipulation.
+| Python: The entire game is developed in Python, using basic programming concepts such as loops, conditionals, and string manipulation.
