@@ -5,9 +5,13 @@ The "Hangman Game in Python" is a text-based implementation of the classic word 
 - Key Features:
 
 | Word Selection: The program randomly selects a word from a predefined list, such as "python," "java," "swift," or "javascript."
+
 | Masked Word Display: The chosen word is displayed as a series of dashes, with guessed letters revealed while keeping the rest masked.
+
 | Attempts Counter: Players have a limited number of attempts (8 by default) to guess the word correctly.
+
 | Letter Guessing: Players input a single lowercase letter to guess the word's letters.
+
 | Win/Loss Tracking: The program records and displays the number of wins and losses for each play session.
 
 - Technologies Used:
