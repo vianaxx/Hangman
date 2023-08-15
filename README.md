@@ -1,19 +1,34 @@
-# Hangman
+# Hangman Game
 
-The "Hangman Game in Python" is a text-based implementation of the classic word guessing game, Hangman. The program allows players to guess letters of a hidden word within a limited number of attempts. The game incorporates interactive input/output and provides feedback on the player's progress.
+This Python program is a text-based implementation of the classic Hangman game. Players are required to guess a secret word by inputting letters one by one. The game includes a menu to start playing, display results, or exit.
 
-- Key Features:
+## Features
 
-| Word Selection: The program randomly selects a word from a predefined list, such as "python," "java," "swift," or "javascript."
+- Generates a random secret word from a predefined list.
+- Tracks the number of attempts left for the player.
+- Handles input validation for guessed letters.
+- Displays the progress of the guessed word with masked letters.
+- Allows players to continue playing or view the scoreboard.
 
-| Masked Word Display: The chosen word is displayed as a series of dashes, with guessed letters revealed while keeping the rest masked.
+## Instructions
 
-| Attempts Counter: Players have a limited number of attempts (8 by default) to guess the word correctly.
+1. Run the Python program in an environment that supports Python.
+2. The program will initialize and start the Hangman game.
+3. Players will have a limited number of attempts to guess the secret word.
+4. Players input letters to guess the word's characters.
+5. After each attempt, the program will provide feedback on the guessed letters.
+6. If the player guesses the word correctly, they win; otherwise, they lose.
+7. Players can choose to play again, view the scoreboard, or exit the game.
 
-| Letter Guessing: Players input a single lowercase letter to guess the word's letters.
+## Notes
 
-| Win/Loss Tracking: The program records and displays the number of wins and losses for each play session.
+- Ensure you have Python installed on your system.
+- The game selects a random word from a predefined list.
+- The program handles input validation for letters and prompts players for correct input.
+- The game tracks the number of attempts and displays a message when attempts run out.
+- Players can choose to start a new game, view their results, or exit the game.
+- You can customize the word list and modify the game's behavior as desired.
 
-- Technologies Used:
+Feel free to customize and enhance this code according to your preferences. Enjoy playing the Hangman game and challenging your vocabulary skills!
 
-| Python: The entire game is developed in Python, using basic programming concepts such as loops, conditionals, and string manipulation.
+Have fun playing the Hangman game and see how many words you can guess correctly!
