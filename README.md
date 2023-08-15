@@ -30,4 +30,6 @@ This Python program is a text-based implementation of the classic Hangman game. 
 - You can customize the word list and modify the game's behavior as desired.
 - Feel free to customize and enhance this code according to your preferences. Enjoy playing the Hangman game and challenging your vocabulary skills!
 
-Have fun playing the Hangman game and see how many words you can guess correctly!
+## Acknowledgements
+
+This project is inspired by the JetBrains Academy.
